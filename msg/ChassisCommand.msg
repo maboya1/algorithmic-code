@@ -1,3 +1,6 @@
-bool is_moving
 float64 linear_velocity
 float64 angular_velocity
+int64 shoot_model
+int64 model
+bool is_aimed
+bool is_target_exists
